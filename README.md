@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-<b><a href="https://replit.com/@HayOo1/Pomodoro-Timer" style="color:purple;">Click here to use this program in Replit</a></b>
+<b><a href="https://replit.com/@HayOo1/PomodoraTimer" style="color:purple;">Click here to use this program in Replit</a></b>
 
 ![alt text](/program.png)
 
