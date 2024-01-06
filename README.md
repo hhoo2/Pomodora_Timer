@@ -38,4 +38,4 @@ Feel free to explore the code and adapt it to your specific needs.
 
 Enjoy your productive time management with this Pomodoro Timer! If you have any questions or feedback, please feel free to reach out.
 
-If you wish to improve the README further or add specific details, please let me know, and I'll be happy to assist you.
+
